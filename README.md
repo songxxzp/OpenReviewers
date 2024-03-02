@@ -2,7 +2,7 @@
 ### Multi Agent Academic Review Simulation System
 
 <p align="center">
-   🤗 <a href="https://cloud.tsinghua.edu.cn/d/7391d8c3132c4e8085d9/" target="_blank">Model</a> • 📚 <a href="https://cloud.tsinghua.edu.cn/d/7391d8c3132c4e8085d9/" target="_blank">Data</a> • 🌐 <a href="http://116.204.104.227:5173/" target="_blank">ArxivReviewers</a> • 🌐 <a href="http://116.204.104.227:10729/" target="_blank">Openreviewer</a> • 🌐 <a href="http://116.204.104.227:10730/" target="_blank">Openreviewers</a>
+   🤗 <a href="https://cloud.tsinghua.edu.cn/d/7391d8c3132c4e8085d9/" target="_blank">Model</a> • 📚 <a href="https://cloud.tsinghua.edu.cn/d/7391d8c3132c4e8085d9/" target="_blank">Data</a> • 📜 <a href="http://116.204.104.227:5173/" target="_blank">ArxivReviewers</a> • 👨🏻‍🚀 <a href="http://116.204.104.227:10729/" target="_blank">Openreviewer</a> • 🖥️ <a href="http://116.204.104.227:10730/" target="_blank">Openreviewers</a>
 </p>
 
 <div align="center">

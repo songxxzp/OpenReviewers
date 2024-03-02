@@ -4,3 +4,4 @@ termcolor
 colorama
 PyPDF2
 rich
+vllm

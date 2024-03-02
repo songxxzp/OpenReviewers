@@ -75,4 +75,21 @@ python3 area_chair.py --ac-path 2023_ac_v5_lr_1e4_epoch2-injected --re-path 0101
 ### 6. Review Your Paper!
 - 审稿人界面: http://127.0.0.1:7680
 - 区域主席界面: http://127.0.0.1:7681
+<div align="center">
+<img src="assets/interface.png" alt="OpenReviewers Interface" width="90%" />
+</div>
+
+## Web Demo
+- 审稿人Reviewer
+  <div align="center">
+   <img src="assets/reviewer_example.png" alt="Reviewer Example" width="90%" />
+   </div>
+
+- 区域主席Area Chair
+   <div align="center">
+   <img src="assets/ac_example1.png" alt="Area Chair Example1" width="90%" />
+   </div>
+   <div align="center">
+   <img src="assets/ac_example2.png" alt="Area Chair Example2" width="90%" />
+   </div>
 

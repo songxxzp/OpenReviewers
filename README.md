@@ -82,14 +82,14 @@ python3 area_chair.py --ac-path 2023_ac_v5_lr_1e4_epoch2-injected --re-path 0101
 ## Web Demo
 - 审稿人Reviewer
   <div align="center">
-   <img src="assets/reviewer_example.png" alt="Reviewer Example" width="90%" />
+   <img src="assets/reviewer_example.png" alt="Reviewer Example" width="120%" />
    </div>
 
 - 区域主席Area Chair
    <div align="center">
-   <img src="assets/ac_example1.png" alt="Area Chair Example1" width="90%" />
+   <img src="assets/ac_example1.png" alt="Area Chair Example1" width="120%" />
    </div>
    <div align="center">
-   <img src="assets/ac_example2.png" alt="Area Chair Example2" width="90%" />
+   <img src="assets/ac_example2.png" alt="Area Chair Example2" width="110%" />
    </div>
 
